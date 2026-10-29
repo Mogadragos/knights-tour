@@ -8,7 +8,7 @@
     "build": "webpack",
     "start": "http-server .\\dist\\"
   },
-  "author": "Julien Caillaud",
+  "author": "Alice Caillaud",
   "license": "ISC",
   "devDependencies": {
     "html-webpack-plugin": "^5.5.0",
