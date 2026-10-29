@@ -1,0 +1,19 @@
+{
+  "name": "knights-tour",
+  "version": "1.0.0",
+  "description": "Knight's Tour",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "http-server .\\dist\\"
+  },
+  "author": "Julien Caillaud",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "http-server": "^14.1.0",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
